@@ -1,29 +1,16 @@
 // 1. 單字資料庫 (包含所有單字)
 const wordBank = [
-  { eng: "baby", ch: "寶貝、嬰兒(n.)" },
-  { eng: "boy", ch: "男孩(n.)" },
-  { eng: "girl", ch: "女孩(n.)" },
-  { eng: "fool", ch: "笨蛋(n.)" },
-  { eng: "man", ch: "人、男人(n.)" },
-  { eng: "woman", ch: "女人(n.)" },
-  { eng: "king", ch: "國王(n.)" },
-  { eng: "queen", ch: "女王、皇后(n.)" },
-  { eng: "people", ch: "人們(n.)" },
-  { eng: "prince", ch: "王子(n.)" },
-  { eng: "princess", ch: "公主(n.)" },
-  { eng: "you", ch: "你、你們" },
-  { eng: "I", ch: "我" },
-  { eng: "he", ch: "他" },
-  { eng: "she", ch: "她" },
-  { eng: "we", ch: "我們" },
-  { eng: "it", ch: "它、牠" },
-  { eng: "they", ch: "他們、她們、它們" },
-  { eng: "house", ch: "房子(n.)" },
-  { eng: "car", ch: "車子(n.)" },
-  { eng: "table", ch: "桌子(n.)" },
-  { eng: "chair", ch: "椅子(n.)" },
-  { eng: "child", ch: "小孩(n.)" },
-  { eng: "kid", ch: "小孩(n.)" }
+  { eng: "in", ch: "在...裡" },
+  { eng: "on", ch: "在...上" },
+  { eng: "under", ch: "在...下" },
+  { eng: "at", ch: "在" },
+  { eng: "out of", ch: "在...外面" },
+  { eng: "with", ch: "有著、隨著、用" },
+  { eng: "here", ch: "這裡" },
+  { eng: "there", ch: "那裡" },
+  { eng: "from", ch: "從" },
+  { eng: "by", ch: "藉由" },
+  { eng: "for", ch: "為了" }
 ];
 
 // 2. 遊戲狀態與記錄變數
